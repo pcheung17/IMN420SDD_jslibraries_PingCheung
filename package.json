@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Ping Cheung",
+  "license": "private",
+  "private":true,
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
